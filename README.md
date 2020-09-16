@@ -12,10 +12,10 @@ Afterwards, the user is asked to choose between typing the initials of one of th
 
 The four readability indexes are: 
 
-"ARI": Automated Readability Index - https://en.wikipedia.org/wiki/Automated_readability_index;
-"FK": Flesch-Kincaid Readability Tests - https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests;
-"SMOG": Simple Measure of Gobbledygook - https://en.wikipedia.org/wiki/SMOG;
-"CL": Coleman-Liau Index - https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index;
+- "ARI": Automated Readability Index - https://en.wikipedia.org/wiki/Automated_readability_index;
+- "FK": Flesch-Kincaid Readability Tests - https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests;
+- "SMOG": Simple Measure of Gobbledygook - https://en.wikipedia.org/wiki/SMOG;
+- "CL": Coleman-Liau Index - https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index;
 
 Finally, the program computes the total average age for all four indexes. 
 
